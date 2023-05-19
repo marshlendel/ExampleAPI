@@ -1,0 +1,48 @@
+{
+  "userAppXref": [
+    {
+      "userId": 1,
+      "appId": 1
+    },
+    {
+      "userId": 1,
+      "appId": 2
+    },
+    {
+      "userId": 2,
+      "appId": 4
+    },
+    {
+      "userId": 2,
+      "appId": 1
+    },
+    {
+      "userId": 2,
+      "appId": 2
+    },
+    {
+      "userId": 3,
+      "appId": 2
+    },
+    {
+      "userId": 3,
+      "appId": 5
+    },
+    {
+      "userId": 4,
+      "appId": 2
+    },
+    {
+      "userId": 4,
+      "appId": 4
+    },
+    {
+      "userId": 4,
+      "appId": 5
+    },
+    {
+      "userId": 4,
+      "appId": 6
+    }
+  ]
+}
