@@ -1,10 +1,8 @@
 using ExampleAPI.Data.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq; // Include this for JObject
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+using Newtonsoft.Json.Linq;
+
 
 namespace ExampleAPI.Controllers
 {
