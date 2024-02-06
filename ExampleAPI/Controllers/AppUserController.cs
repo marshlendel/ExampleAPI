@@ -64,7 +64,7 @@ namespace ExampleAPI.Controllers
             using (var reader = new StreamReader("Data/userData.json"))
             {
                 string userData = reader.ReadToEnd();
-                var userList = JsonConvert.DeserializeObject<UserList>(userData); // Assuming UserList is structured with a Users property
+                var userList = JsonConvert.DeserializeObject<UserList>(userData);
                 users = userList?.Users;
             }
 
